@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      "highlightjs@^8.7.0",
+      "/Users/xiaoguang/code/Raneto"
+    ]
+  ],
+  "_cnpm_publish_time": 1438781983619,
+  "_from": "highlightjs@>=8.7.0 <9.0.0",
+  "_id": "highlightjs@8.7.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/highlightjs",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "email": "paul.sellars@rightster.com",
+    "name": "thepauleh"
+  },
+  "_npmVersion": "2.7.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "highlightjs",
+    "raw": "highlightjs@^8.7.0",
+    "rawSpec": "^8.7.0",
+    "scope": null,
+    "spec": ">=8.7.0 <9.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.cnpmjs.org/highlightjs/download/highlightjs-8.7.0.tgz",
+  "_shasum": "13397cd8dd8ad7d4cfe77adffb8088a10ee3b708",
+  "_shrinkwrap": null,
+  "_spec": "highlightjs@^8.7.0",
+  "_where": "/Users/xiaoguang/code/Raneto",
+  "dependencies": {},
+  "description": "Syntax highlighting for the Web",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "13397cd8dd8ad7d4cfe77adffb8088a10ee3b708",
+    "size": 346898,
+    "tarball": "http://registry.npm.taobao.org/highlightjs/download/highlightjs-8.7.0.tgz"
+  },
+  "gitHead": "519ed08a571ce1c2290d855d08c38c9a1dbf438a",
+  "maintainers": [
+    {
+      "email": "maniac@softwaremaniacs.org",
+      "name": "isagalaev"
+    },
+    {
+      "email": "code@firstandthird.com",
+      "name": "jga"
+    },
+    {
+      "email": "robloach@gmail.com",
+      "name": "robloach"
+    },
+    {
+      "email": "paul.sellars@rightster.com",
+      "name": "thepauleh"
+    }
+  ],
+  "name": "highlightjs",
+  "optionalDependencies": {},
+  "private": false,
+  "publish_time": 1438781983619,
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "8.7.0"
+}
